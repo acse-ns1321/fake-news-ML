@@ -1,0 +1,7 @@
+.gitgnore
+MLAnalysis.aux
+MLAnalysis.fdb_latexmk
+MLAnalysis.fls
+MLAnalysis.log
+MLAnalysis.out
+MLAnalysis.synctex.gz
