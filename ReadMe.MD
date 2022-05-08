@@ -40,7 +40,22 @@ List of Topics:
 ## Pytorch
 - Important Functions (tensor, nn/modules, optim, autograd, distributions, utils, torchvision)
 - Basic Pytorch Tensor Operations (setting seed, declaring tensors,creating random tensor, plotting tensors, using gpus, using autograd, using optim)
-- 
+- Autograd
+- Backpropogation
+- Gradient descent 
+- Training Pipeline
+- Linear Regression
+- Logistic Regression
+- Dataset and Dataloader
+- Dataset Transforms
+- Softmax and Crossentropy
+- Activation Functions
+- Feed Forward Net
+- CNN
+- Transfer Learning
+- Tensorboard
+- Save & Load Models
+
 2. Feed-Foward Neural Networks
 
 One-hot encoding
