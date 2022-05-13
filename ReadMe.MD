@@ -56,7 +56,36 @@ List of Topics:
 - Tensorboard
 - Save & Load Models
 
-2. Feed-Foward Neural Networks
+
+
+## 2. Feed-Foward Neural Networks
+
+## 3. Regularization, Bias, Variance
+
+## 4. Convolutional Neural Networks
+
+- CNN artchitecture - layers, kernals, filters, channels
+- convolutional arithematic - output size, output image
+- Layers - convolutional layer, pooling layer, upsampling, downsampling 
+- Transposed Convolutions
+- Transfer Learning
+
+Steps in Creating a CNN (LeNet5)
+- Downalod the dataset 
+- Split the Data - get the train validation and test - indices and data and labels
+- Create Standardization function
+- Apply Standardizarion
+- Create tensorDatasets - TensorDataset to be able to operate on the dataset without having to load it all in memory
+
+- Making the ML Functions :
+    - Training Function
+    - Validation Function
+    - Evaluate Function
+
+## 5. Recurrent Networks and LSTMs 
+
+
+
 
 One-hot encoding
 
